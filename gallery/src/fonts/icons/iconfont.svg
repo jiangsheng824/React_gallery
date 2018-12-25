@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="chehuijiantou" unicode="&#58881;" d="M38.4 468.8L328 752h20.8s94.4 19.2 68.8-70.4L230.4 492.8h465.6s288 12.8 289.6-424c0 0-4.8-27.2-22.4-27.2h-49.6s-20.8 1.6-22.4 24c-1.6 20.8-6.4 315.2-192 331.2l-473.6 1.6 192-190.4s51.2-68.8-49.6-70.4h-20.8L38.4 419.2s-16 33.6 0 49.6z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
